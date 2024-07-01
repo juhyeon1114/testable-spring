@@ -1,4 +1,4 @@
-package study.testable_spring;
+package study.testablespring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
